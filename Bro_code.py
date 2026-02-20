@@ -1,4 +1,4 @@
-temp = int(input("Tell me the temperature: "))
+temp = int(input("Tell me the temperature in celsius: "))
 is_sunny = False
 
 if temp >= 28 and is_sunny:
