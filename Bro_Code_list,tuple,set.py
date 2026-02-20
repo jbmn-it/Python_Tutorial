@@ -38,6 +38,6 @@
 # print(fruits.count("Apple"))
 # print(fruits.index("Mango"))
 # print(dir(fruits))
-# for fruit in fruits:
-#     print(fruit)
+# for fruit in fruits:    
+#     print(fruit)        
   
